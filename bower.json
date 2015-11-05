@@ -1,0 +1,30 @@
+{
+  "name": "demo",
+  "authors": [
+    "RENE GUMIEL <rafokyo@yahoo.es>"
+  ],
+  "description": "demo cordova angular",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "demo",
+    "angularjs",
+    "cordova"
+  ],
+  "license": "MIT",
+  "homepage": "gumiel.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "ngCordova": "~0.1.20-alpha",
+    "angular-touch": "~1.4.7"
+  }
+}
